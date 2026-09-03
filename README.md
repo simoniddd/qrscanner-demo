@@ -151,9 +151,11 @@ Or open the project in Android Studio (Ladybug or newer) and run on a device or 
 6. The "Scan Again" button returns to scanning
 
 ## Screenshots
-<img width="276" height="481" alt="first step" src="https://github.com/user-attachments/assets/7e5c380f-cfbe-48b9-bbdb-ced5003a69aa" />
-<img width="425" height="802" alt="scanning process" src="https://github.com/user-attachments/assets/ddf69b52-6ab8-4530-bbd0-ba7f7c0cc6c8" />
-<img width="427" height="671" alt="third step" src="https://github.com/user-attachments/assets/4bc20be7-8eed-44b6-a315-0416249848f3" />
+<p align="center">
+  <img width="30%" alt="first step" src="https://github.com/user-attachments/assets/7e5c380f-cfbe-48b9-bbdb-ced5003a69aa" />
+  <img width="30%" alt="scanning process" src="https://github.com/user-attachments/assets/ddf69b52-6ab8-4530-bbd0-ba7f7c0cc6c8" />
+  <img width="30%" alt="third step" src="https://github.com/user-attachments/assets/4bc20be7-8eed-44b6-a315-0416249848f3" />
+</p>
 
 
 ## License
